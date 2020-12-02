@@ -23,3 +23,8 @@ This repo is simply a homework assignment. Feel free to inspect the code and not
   
 ## License
 I've chosen an MIT License. Do what you'd like with this material.
+
+#### The Proof
+```md
+![Google Lighthouse Perfect Score](assets/images/screenshot.png)
+```
