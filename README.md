@@ -14,8 +14,11 @@ This repo is simply a homework assignment. Feel free to inspect the code and not
   
 ## Credits
 [Smashing Magazine](https://www.smashingmagazine.com/2020/01/html5-article-section/) helped me understand the difference between `<section>` and `<article>`
+
 [David Mac D](http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html) taught me how to add alt="" attributes to CSS backgrounds
+
 [Google Lighthouse](https://developers.google.com/web/tools/lighthouse#devtools) provided the tools I needed to test my webpage for accessibility
+
 [GitHub Markdown] (https://guides.github.com/features/mastering-markdown/) taught me how to style my README with markdown!
   
 ## License
