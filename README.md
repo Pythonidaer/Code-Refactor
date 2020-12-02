@@ -19,7 +19,7 @@ This repo is simply a homework assignment. Feel free to inspect the code and not
 
 [Google Lighthouse](https://developers.google.com/web/tools/lighthouse#devtools) provided the tools I needed to test my webpage for accessibility
 
-[GitHub Markdown] (https://guides.github.com/features/mastering-markdown/) taught me how to style my README with markdown!
+[GitHub Markdown](https://guides.github.com/features/mastering-markdown/) taught me how to style my README with markdown!
   
 ## License
 I've chosen an MIT License. Do what you'd like with this material.
