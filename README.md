@@ -1,4 +1,4 @@
-# html1activities
+# Code Refactor
 *Horiseon Marketing webpage updates for accessibility.*
 
 ## Installation
