@@ -124,8 +124,12 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    /* background-color: #2589bd; */
-    background: #1C5E82;
+    /* The original background color is less than ideal for accessibility purposes.
+    If you would like to keep it as is however, I can just swap it back.
+    background-color: #2589bd; */
+
+    /* This background color scores higher on background:foreground for a11y*/
+    background-color: #1C5E82;
 }
 
 .benefit-lead,
