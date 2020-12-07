@@ -1,7 +1,7 @@
 # Code Refactor
 *Horiseon Marketing webpage updates for accessibility.*
 
-[View Live Version Here.](https://pythonidaer.github.io/Code-Refactor/)
+[View Deployed Application Here.](https://pythonidaer.github.io/Code-Refactor/)
 
 ## Installation
 1. Clone repository to your local device
