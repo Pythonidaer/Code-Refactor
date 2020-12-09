@@ -1,3 +1,7 @@
+/* Reading this led me to change h3 in the aside to h2
+https://www.tmprod.com/blog/2010/h1-h2-and-h3-header-tags-for-seo/
+*/
+
 /* ========== General Styling Start ========== */
 * {
     box-sizing: border-box;
@@ -139,11 +143,12 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead h3,
-.benefit-brand h3,
-.benefit-cost h3 {
+.benefit-lead .aside-heading,
+.benefit-brand .aside-heading,
+.benefit-cost .aside-heading {
     margin-bottom: 10px;
     text-align: center;
+    font-size: 1.17em;
 }
 
 .benefit-lead img,
